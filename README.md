@@ -13,3 +13,5 @@ Visit https://console.developers.google.com/apis/credentials and generate API ke
 Visit https://cse.google.com/cse/all and in the web form where you create/edit create an engine save exit then edit you engine the set custom search engine enable "Image search" option and for "Sites to search" option select "Search the entire web but emphasize included sites".
 
 or read https://pypi.org/project/Google-Images-Search/
+
+after you get you api key and CX(aka search engine key) key put keys in APIKEY.txt in respected spots
