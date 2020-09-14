@@ -14,4 +14,4 @@ Visit https://cse.google.com/cse/all and in the web form where you create/edit c
 
 or read https://pypi.org/project/Google-Images-Search/
 
-after you get you api key and CX(aka search engine key) key put keys in APIKEY.txt in respected spots
+after you get you api key and CX(aka search engine key) keys put keys in APIKEY.txt in respected spots
