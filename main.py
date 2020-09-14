@@ -43,7 +43,7 @@ image = Image.open("secret.jpg")
 image.show()
 print("\033[H\033[J")
 while True:
-    z = input("quess anwser: ")
+    z = input("guess anwser: ")
     if(z.lower() != str(query).lower().replace("_"," ")):
         print("you are wrong! ")
         x = input("continue? y/n: ")
@@ -55,6 +55,8 @@ while True:
             break
     else:
         print("gg you got it!")
+
+input("Enter to exit")
 
 
 
